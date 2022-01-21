@@ -5,5 +5,5 @@
 - Users only have 5 attempts
 - For every attempt a user misses, print the number of attempts left
 - Once the user exhausts his or her attempts print GAME OVER.
-- CLone this repo, create a branch with your first name and make a PR. Please __DO NOT MERGE!!!!__
+- Clone this repo, create a branch with your first name and make a PR. Please __DO NOT MERGE!!!!__
 - This task is due on Monday 24th January, 2022 by __12pm__
